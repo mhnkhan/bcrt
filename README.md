@@ -4,4 +4,5 @@
 2. [Redis & Redis cluster](docs/Redis.md)
 3. …
 
+signed
 > ###### Credit: Brilliant Cloud Research Team
